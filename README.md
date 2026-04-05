@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Eduardo
+#  Olá, eu sou o Eduardo
 
 💻 Desenvolvedor Backend Java  
 🚀 Focado em Spring Boot e APIs REST  
