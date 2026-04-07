@@ -1,45 +1,43 @@
-#  Olá, eu sou o Eduardo
+---
 
-💻 Desenvolvedor Backend Java  
-🚀 Focado em Spring Boot e APIs REST  
-📍 São José do Rio Preto - SP  
+## 🧠 Sobre mim
+- 🎯 Em busca da primeira oportunidade como dev backend  
+- 💡 Curto resolver problemas e evoluir na prática  
+- 📈 Atualmente focado em APIs REST, testes e arquitetura  
 
 ---
 
-## 🧠 Tecnologias
-- Java
-- Spring Boot
-- MySQL
-- JPA / Hibernate
-- Git & GitHub
+## 🚀 Tecnologias e Ferramentas
+
+![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,git,github,postman,idea)
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Projeto em destaque
 
-🔹 API Biblioteca  
-→ Sistema completo com CRUD, empréstimos e regras de negócio  
+### 📚 Biblioteca API
+Sistema de gerenciamento de livros com:
 
-🔹 Sistema de Empréstimos  
-→ Relacionamentos e lógica com banco de dados  
+- 📖 Cadastro de livros e usuários  
+- 🔄 Empréstimo e devolução  
+- ⚠️ Validações de regras de negócio  
+- 🧪 Testes unitários com JUnit e Mockito  
+- 📄 Documentação com Swagger  
+
+
+
+## 📈 Atualmente estudando
+
+- Testes unitários (JUnit + Mockito)  
+- Boas práticas em APIs REST  
+- Estruturação de projetos backend  
+- Versionamento com Git  
 
 ---
-
 
 ## 📫 Contato
-- LinkedIn: linkedin.com/in/eduardociudadf/
 
-<!--
-**eduardo-Ciudad/Eduardo-Ciudad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 LinkedIn: https://www.linkedin.com/in/eduardociudadf/
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
