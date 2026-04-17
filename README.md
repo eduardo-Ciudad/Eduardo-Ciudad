@@ -2,9 +2,7 @@
 
 ## 👨‍💻 Eduardo Ciudad Figueredo
 🚀 Backend Developer | Java & Spring Boot
-🎯 Em busca da primeira oportunidade como desenvolvedor backend
-💡 Focado em resolver problemas reais com código limpo e boas práticas
-📚 Atualmente estudando APIs REST, testes e arquitetura
+
 ---
 
 ## 🚀 Tecnologias e Ferramentas
@@ -20,17 +18,17 @@
 
 Sistema backend completo para gerenciamento de livros e usuários.
 
-✨ Funcionalidades:
-📖 Cadastro de livros e usuários
-🔄 Empréstimos e devoluções
-⚠️ Regras de negócio aplicadas
-🧪 Testes unitários com JUnit e Mockito
-📄 Documentação com Swagger
-🧠 O que esse projeto demonstra:
-Arquitetura em camadas (Controller, Service, Repository)
-Boas práticas de API REST
-Tratamento de exceções global
-Integração com banco de dados (MySQL)
+#✨ Funcionalidades:
+#📖 Cadastro de livros e usuários
+#🔄 Empréstimos e devoluções
+#⚠️ Regras de negócio aplicadas
+#🧪 Testes unitários com JUnit e Mockito
+#📄 Documentação com Swagger
+#🧠 O que esse projeto demonstra:
+#Arquitetura em camadas (Controller, Service, Repository)
+#Boas práticas de API REST
+#Tratamento de exceções global
+#Integração com banco de dados (MySQL)
 
 
 ## 📈 Atualmente Estudando
