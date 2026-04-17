@@ -1,10 +1,10 @@
 ---
 
-## 🧠 Sobre mim
-- 🎯 Em busca da primeira oportunidade como dev backend  
-- 💡 Curto resolver problemas e evoluir na prática  
-- 📈 Atualmente focado em APIs REST, testes e arquitetura  
-
+## 👨‍💻 Eduardo Ciudad Figueredo
+🚀 Backend Developer | Java & Spring Boot
+🎯 Em busca da primeira oportunidade como desenvolvedor backend
+💡 Focado em resolver problemas reais com código limpo e boas práticas
+📚 Atualmente estudando APIs REST, testes e arquitetura
 ---
 
 ## 🚀 Tecnologias e Ferramentas
@@ -15,29 +15,36 @@
 
 ## 📌 Projeto em destaque
 
-### 📚 Biblioteca API
-Sistema de gerenciamento de livros com:
+### 📌 Projeto em Destaque
+📚 API de Biblioteca
 
-- 📖 Cadastro de livros e usuários  
-- 🔄 Empréstimo e devolução  
-- ⚠️ Validações de regras de negócio  
-- 🧪 Testes unitários com JUnit e Mockito  
-- 📄 Documentação com Swagger  
+Sistema backend completo para gerenciamento de livros e usuários.
+
+✨ Funcionalidades:
+📖 Cadastro de livros e usuários
+🔄 Empréstimos e devoluções
+⚠️ Regras de negócio aplicadas
+🧪 Testes unitários com JUnit e Mockito
+📄 Documentação com Swagger
+🧠 O que esse projeto demonstra:
+Arquitetura em camadas (Controller, Service, Repository)
+Boas práticas de API REST
+Tratamento de exceções global
+Integração com banco de dados (MySQL)
 
 
-
-## 📈 Atualmente estudando
-
-- Testes unitários (JUnit + Mockito)  
-- Boas práticas em APIs REST  
-- Estruturação de projetos backend  
-- Versionamento com Git  
+## 📈 Atualmente Estudando
+🧪 Testes unitários (JUnit + Mockito)
+🌐 Boas práticas em APIs REST
+🏗️ Arquitetura backend
+🔧 Git avançado
 
 ---
 
 ## 📫 Contato
 
 - 💼 LinkedIn: https://www.linkedin.com/in/eduardociudadf/
+- 📧 email: eduardociudadfigueredo@gmail.com
 
 ---
 
