@@ -1,36 +1,60 @@
+## 👨‍💻 Eduardo Ciudad Figueredo  
+🚀 Backend Developer | Java & Spring Boot  
+
+Construindo APIs REST completas, com foco em arquitetura limpa, boas práticas e aplicações reais.
+
 ---
 
-## 👨‍💻 Eduardo Ciudad Figueredo
-🚀 Backend Developer | Java & Spring Boot
+## 🌐 Projeto em Produção
+
+📚 **API de Biblioteca (Fullstack)**  
+
+🔗 Frontend: https://eduardo-ciudad.github.io/frontend-biblioteca-api/  
+🔗 Backend: https://biblioteca-api-nqwi.onrender.com  
+
+Sistema completo para gerenciamento de livros, usuários e empréstimos.
+
+**Principais features:**
+- CRUD completo (livros, usuários, empréstimos)
+- Relacionamentos entre entidades
+- Banco PostgreSQL com Flyway
+- API REST estruturada (Spring Boot + JPA)
+- Deploy real (Render + GitHub Pages)
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 
-![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,git,github,postman,idea)
+![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,git,github,postman,idea)
 
 ---
 
-## 📌 Projeto em destaque
+## 📊 Estatísticas
 
-📚 API de Biblioteca
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Ciudad&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Ciudad&layout=compact&theme=tokyonight"/>
+</p>
 
-Sistema backend completo para gerenciamento de livros e usuários.
+<p align="center">
+  <img height="160em" src="https://streak-stats.demolab.com/?user=Eduardo-Ciudad&theme=tokyonight"/>
+</p>
 
+---
 
 
 ## 📈 Atualmente Estudando
-🧪 Testes unitários (JUnit + Mockito)
-🌐 Boas práticas em APIs REST
-🏗️ Arquitetura backend
-🔧 Git avançado
+
+- 🧪 Testes unitários (JUnit + Mockito)  
+- 🌐 Boas práticas em APIs REST  
+- 🏗️ Arquitetura backend  
+- 🔧 Git avançado  
 
 ---
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/eduardociudadf/
-- 📧 email: eduardociudadfigueredo@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/eduardociudadf/  
+- 📧 Email: eduardociudadfigueredo@gmail.com  
 
 ---
-
