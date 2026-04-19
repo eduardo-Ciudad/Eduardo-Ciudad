@@ -13,8 +13,7 @@
 
 ## 📌 Projeto em destaque
 
-### 📌 Projeto em Destaque
-📚 API de Biblioteca
+###📚 API de Biblioteca
 
 Sistema backend completo para gerenciamento de livros e usuários.
 
