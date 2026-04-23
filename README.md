@@ -29,19 +29,6 @@ Sistema completo para gerenciamento de livros, usuários e empréstimos.
 
 ---
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Ciudad&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Ciudad&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img height="160em" src="https://streak-stats.demolab.com/?user=Eduardo-Ciudad&theme=tokyonight"/>
-</p>
-
----
-
 
 ## 📈 Atualmente Estudando
 
