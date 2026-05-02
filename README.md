@@ -1,87 +1,94 @@
 <div align="center">
 
+# 👨‍💻 Eduardo Ciudad
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Backend+Developer+Java;Spring+Boot+%7C+APIs+REST;Construindo+projetos+reais;Evoluindo+todos+os+dias" />
+
+---
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,git,github,js,html,css" />
+
+---
+
+</div>
+
+## 🚀 Sobre mim
+
+💡 Desenvolvedor backend focado em **Java e Spring Boot**  
+💡 Criando APIs REST e sistemas completos com deploy real  
+💡 Apaixonado por resolver problemas reais com código  
+
+🎯 Atualmente:
+- Buscando vaga como **Backend Developer Junior**
+- Aberto para **freelance**
+
+---
+
+## 💻 Projetos em destaque
+
+### 📚 Biblioteca API
+💼 Sistema completo com CRUD, relacionamentos e deploy real
+
+🔗 Backend: https://biblioteca-api-nqwi.onrender.com  
+🔗 Frontend: https://eduardo-ciudad.github.io/frontend-biblioteca-api/
+
+⚙️ Stack:  
+`Spring Boot` `PostgreSQL` `JPA` `Flyway` `JUnit` `Mockito`
+
+---
+
+### 🧠 StudyMind (principal)
+🚀 Plataforma de estudos com integração de IA
+
+🔗 Frontend: https://eduardo-ciudad.github.io/frontend-study-mind/
+
+⚙️ Stack:  
+`Spring Boot` `MySQL` `JavaScript` `AI API`
+
+---
+
+## 🔥 Consistência
+
 <div align="center">
 
-# Eduardo Ciudad Figueredo
-
-**Backend Developer — Java & Spring Boot · São José do Rio Preto, BR**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=378ADD&center=true&width=500&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Building+real+REST+APIs;Learning+%7C+Building+%7C+Evolving)](https://git.io/typing-svg)
-
-![Java](https://img.shields.io/badge/Java%2017-0C447C?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot%203-27500A?style=flat-square&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL%20·%20PostgreSQL-633806?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-712B13?style=flat-square&logo=git&logoColor=white)
+<img src="https://streak-stats.demolab.com?user=eduardo-Ciudad&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## Projetos
+## 📫 Contato
 
-### 📚 biblioteca-api `em produção`
+<div align="center">
 
-API REST completa para gerenciamento de livros, usuários e empréstimos. Deploy real no Render.
+<a href="mailto:eduardociudadfigueredo@gmail.com">
+  <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-**Stack:** Spring Boot · JPA · PostgreSQL · Flyway · JUnit 5 · Mockito
+<a href="https://www.linkedin.com/in/eduardociudadf/">
+  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-🔗 [Backend](https://biblioteca-api-nqwi.onrender.com) · [Frontend](https://eduardo-ciudad.github.io/frontend-biblioteca-api/)
+<a href="https://github.com/eduardo-Ciudad">
+  <img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-**Principais features:**
- CRUD completo — livros, usuários, empréstimos
- Relacionamentos entre entidades com JPA
- Migrations versionadas com Flyway
- Testes unitários com JUnit 5 e Mockito
- Deploy real (Render + GitHub Pages)
-
----
-
-### 🧠 StudyMind `em desenvolvimento`
-
-Sistema de roadmap de estudos para o vestibular com integração de IA.
-
-**Stack:** Spring Boot · MySQL · Vanilla JS · AI API
-
-**Features planejadas:**
- Roadmap personalizado por matéria e nível de dificuldade
- Cadastro de tarefas, tópicos e questões
- Integração com AI API para recomendações
- Frontend em HTML/CSS/JS puro
+</div>
 
 ---
 
-## Tecnologias
+## ⚡ Status
 
-| Tecnologia | Nível |
-|---|---|
-| Java 17 | Principal |
-| Spring Boot 3 | Principal |
-| JPA / Hibernate | Intermediário |
-| MySQL · PostgreSQL | Intermediário |
-| Flyway | Intermediário |
-| Maven | Intermediário |
-| Git & GitHub | Intermediário |
-| JUnit 5 · Mockito | Aprendendo |
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/Disponível%20para%20Freelance-7C3AED?style=for-the-badge&logo=rocket"/>
 
-
-## Atualmente estudando
-
-Arquitetura de APIs REST — DTOs, services, validações
-Testes unitários com JUnit 5 e Mockito
- Git avançado — commits convencionais e boas práticas
- Integração com AI APIs
-
----
-
-## Stats
-
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardo-Ciudad&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-Ciudad&layout=compact&hide_border=true&theme=dark)
+</div>
 
 ---
 
 <div align="center">
-  <sub>Construindo portfólio · <a href="https://github.com/eduardo-Ciudad">github.com/eduardo-Ciudad</a></sub>
+
+✨ Construindo sistemas reais · focado em evolução constante ✨
+
 </div>
