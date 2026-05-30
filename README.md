@@ -45,6 +45,11 @@ API REST de gerenciamento de biblioteca com autenticação JWT, controle de role
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=eduardo-Ciudad&theme=tokyonight&hide_border=true"/>
 </div>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/eduardo-Ciudad/eduardo-Ciudad/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
 
 ---
 
