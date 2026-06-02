@@ -12,7 +12,7 @@
 
 ## Sobre
 
-Desenvolvedor backend autodidata focado em Java e Spring Boot. Construo APIs REST completas — com autenticação, testes, migrations e deploy — e integro modelos de IA em fluxos reais de aplicação.
+Desenvolvedor backend autodidata focado em Java e Spring Boot. Construo APIs REST completas, com autenticação, testes, migrations e deploy — e integro modelos de IA em fluxos reais de aplicação.
 
 Atualmente buscando oportunidade como **Desenvolvedor Backend Junior**.
 
