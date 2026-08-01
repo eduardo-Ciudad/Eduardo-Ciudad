@@ -14,7 +14,7 @@
 
 ### Sobre
 
-Desenvolvedor backend autodidata de 17 anos, focado em **Java** e **Spring Boot**. Construo APIs REST completas — autenticação, migrations, testes, deploy — e já entreguei meu primeiro projeto freelance pago pra um cliente real.
+Backend developer autodidata, 17 anos. Stack: Java 17 · Spring Boot 3 · PostgreSQL · Flyway · Spring Security/JWT · Docker · Nginx. Projetos em produção com deploy em VPS (Ubuntu), integração de pagamento (Mercado Pago Checkout Transparente), auditoria de segurança e testes com JUnit 5.
 
 Buscando minha primeira oportunidade como **Desenvolvedor Backend Junior**.
 
