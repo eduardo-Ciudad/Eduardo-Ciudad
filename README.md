@@ -47,33 +47,48 @@ Docker · Docker Compose · Render · Vercel · Swagger/OpenAPI
 
 ---
 
+
 ### Projetos
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-####  Controle Financeiro &nbsp; <sup><code>freelance</code></sup>
+####  Controle Financeiro &nbsp; <sup><code>freelance pago</code></sup>
 
-Sistema financeiro completo entregue para fornecedora de tecidos. Arquitetura append-only (ledger) — saldo sempre via `SUM`, correções via estorno, nunca edita/deleta.
+Sistema financeiro multi-tenant entregue para fornecedora de tecidos. Arquitetura append-only (ledger) — saldo sempre via `SUM`, correções via estorno, nunca edita/deleta.
 
-**Features:** vendas com baixa automática de estoque, contas pessoais com parcelas, dashboard com resumo diário, navegação mensal, tabelas de saldo cliente/fornecedor.
+**Features:** vendas com baixa automática de estoque, contas pessoais com parcelas, dashboard com resumo diário, fluxo completo de reset de senha, conformidade LGPD, email verification assíncrono, 15 testes passando.
 
-[`Backend`](https://financialcontrol-mhag.onrender.com) · [`Frontend`](https://cadin-financeiro.vercel.app)
+[`Backend`](https://controlefinanceirolab.duckdns.org) · [`Frontend`](https://cadin-financeiro.vercel.app)
 
 `Java 17` · `Spring Boot 3` · `Spring Security + JWT`
-`PostgreSQL` · `Flyway` · `Render`
+`PostgreSQL` · `Flyway` · `Docker` · `Nginx` · `VPS`
 
 </td>
+<td width="50%" valign="top">
 
+####  GabiKids E-commerce &nbsp; <sup><code>em produção</code></sup>
+
+E-commerce completo de moda infantil com checkout integrado. Pagamento via Mercado Pago Checkout Transparente (cartão + Pix), imagens via Cloudflare R2, segurança auditada antes do deploy.
+
+**Features:** webhook com HMAC-SHA256, validação de valor, idempotência, OrderStatus state machine, roles ADMIN/CLIENT, Swagger, testes com JUnit 5 + Mockito.
+
+[`Produção`](https://gabikids.duckdns.org:8081)
+
+`Java 17` · `Spring Boot 3` · `Mercado Pago API`
+`PostgreSQL` · `Flyway` · `Cloudflare R2` · `VPS`
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ####  StudyMind
 
 Plataforma de estudos com onboarding via IA. O usuário conversa com um assistente que gera um plano de 6 semanas, populando matérias, tópicos e tarefas no banco.
 
-**Features:** integração Anthropic Claude, email verification assíncrono, rate limiting, refresh token 7d, 58 testes passando.
+**Features:** integração Anthropic Claude, email verification assíncrono, rate limiting, refresh token 7d, Docker + docker-compose, 58 testes passando.
 
 [`Backend`](https://studymind-l3ej.onrender.com) · [`Frontend`](https://studymind-mu.vercel.app) · [`Arquitetura`](https://eduardo-ciudad.github.io/StudyMind/)
 
@@ -81,36 +96,20 @@ Plataforma de estudos com onboarding via IA. O usuário conversa com um assisten
 `PostgreSQL` · `Flyway` · `Docker` · `JUnit 5`
 
 </td>
-
-</tr>
-<tr>
-
 <td width="50%" valign="top">
 
-####  MiniModa E-commerce
+####  ATSReady
 
-Backend de e-commerce com 27 endpoints e 8 entidades. Foco em segurança (IDOR fix, JWT refresh token, soft delete) e arquitetura limpa (Ports & Adapters no payment gateway).
+API stateless que analisa currículos contra vagas usando IA. Upload de PDF, extração com PDFBox, scoring via Anthropic API. Refatorado para arquitetura hexagonal (Ports & Adapters).
 
-**Features:** OrderStatus state machine, Caffeine cache, GlobalExceptionHandler, Swagger, @Slf4j logging em todos os services.
+**Features:** 24/24 testes passando, CI com GitHub Actions, análise detalhada com pontuação e sugestões de melhoria.
 
-`Java 17` · `Spring Boot 3` · `Spring Security + JWT`
-`PostgreSQL` · `Flyway` · `React 19`
+[`Repositório`](https://github.com/eduardo-Ciudad/ATSReady)
 
-</td>
-
-<td width="50%" valign="top">
-
-####  Biblioteca API
-
-Meu primeiro projeto fullstack. API de gerenciamento de biblioteca com CRUD completo, roles (ADMIN/USER), testes unitários e frontend integrado.
-
-[`Backend`](https://biblioteca-api-nqwi.onrender.com) · [`Frontend`](https://eduardo-ciudad.github.io/frontend-biblioteca-api/)
-
-`Java 17` · `Spring Boot 3` · `Spring Security + JWT`
-`PostgreSQL` · `Flyway` · `JUnit 5` · `Mockito`
+`Java 17` · `Spring Boot 3` · `Anthropic API`
+`PDFBox` · `Hexagonal Architecture` · `GitHub Actions`
 
 </td>
-
 </tr>
 </table>
 
