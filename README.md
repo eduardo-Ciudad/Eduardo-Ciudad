@@ -18,7 +18,7 @@ Também construo e mantenho a **Ciudad Lab**, minha marca/estúdio de desenvolvi
 
 Buscando minha primeira oportunidade como **Desenvolvedor Backend Junior**.
 
-São José do Rio Preto, SP &nbsp;·&nbsp; [Portfólio](https://eduardo-ciudad-portfolio.vercel.app) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/eduardociudadf/) &nbsp;·&nbsp; [ciudad.dev](https://ciudad.dev)
+São José do Rio Preto, SP &nbsp;·&nbsp; [Portfólio](https://eduardo-ciudad-portfolio.vercel.app) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/eduardociudadf/) &nbsp;·&nbsp; [ciudadLab](https://ciudadlab.com.br)
 
 ---
 
