@@ -103,7 +103,7 @@ Sistema financeiro multi tenant entregue para fornecedora de tecidos. Arquitetur
 
 **Features:** vendas com baixa automática de estoque, contas pessoais com parcelas, dashboard com resumo diário, fluxo completo de reset de senha, conformidade LGPD, email verification assíncrono, CI automatizado.
 
-[`Backend`](https://controlefinanceirolab.duckdns.org) · [`Frontend`](https://cadin-financeiro.vercel.app) · [`Repositório`](https://github.com/eduardo-Ciudad/controle-financeiro-lab)
+[`Backend`](https://controlefinanceirolab.duckdns.org) · [`Frontend`](https://controle-financeiro-lab.vercel.app) · [`Repositório`](https://github.com/eduardo-Ciudad/controle-financeiro-lab)
 
 `Java 17` · `Spring Boot 3` · `Spring Security + JWT`
 `PostgreSQL` · `Flyway` · `Docker` · `Nginx` · `VPS`
