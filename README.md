@@ -1,183 +1,119 @@
 <div align="center">
 
-# Eduardo Ciudad
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=550&height=30&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Construindo+APIs+REST+em+produ%C3%A7%C3%A3o;Automatizando+fluxos+com+IA+e+filas+ass%C3%ADncronas" />
-
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=900&color=61AFEF&center=true&vCenter=true&width=620&lines=Desenvolvedor+Backend+Java;Spring+Boot+%C2%B7+PostgreSQL+%C2%B7+Docker;Sistemas+em+produ%C3%A7%C3%A3o+para+clientes+reais" alt="Desenvolvedor Backend Java" />
 
 </div>
 
----
+## Olá, eu sou o Eduardo
 
-### Sobre
+Desenvolvedor backend Java, autodidata e fundador da [CiudadLab](https://ciudadlab.com.br). Construo sistemas que rodam em produção para clientes reais, do levantamento com o cliente ao deploy em infraestrutura própria.
 
-Backend developer autodidata. Stack: Java 17 · Spring Boot · PostgreSQL · Flyway · Spring Security/JWT · RabbitMQ · Docker · Nginx. Projetos em produção com deploy em VPS (Ubuntu), integrações de pagamento e frete (Mercado Pago, Correios), integração com IA generativa (Anthropic, Gemini), auditoria de segurança e testes com JUnit 5 e Mockito.
+* Moro em São José do Rio Preto, SP
+* Aberto a vagas presenciais, híbridas ou remotas como desenvolvedor backend
+* Gosto de arquitetura hexagonal, testes e de resolver problema de negócio com código simples
+* Escrevo sobre os bastidores dos meus projetos no [LinkedIn](https://www.linkedin.com/in/eduardociudadf) e no [blog da CiudadLab](https://ciudadlab.com.br/blog)
 
-Também construo e mantenho a **CiudadLab**, meu estúdio de desenvolvimento, onde aplico o que aprendo no backend em projetos de frontend para clientes.
+## Stack
 
-Buscando minha primeira oportunidade como **Desenvolvedor Backend Junior**.
+**Backend**
 
-São José do Rio Preto, SP &nbsp;·&nbsp; [Portfólio](https://eduardo-ciudad-portfolio.vercel.app) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/eduardociudadf/) &nbsp;·&nbsp; [CiudadLab](https://ciudadlab.com.br)
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/JPA_%2F_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Swagger](https://img.shields.io/badge/OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
----
+**Testes**
 
-### Tech Stack
+![JUnit5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logoColor=white)
+
+**Infraestrutura**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu_(VPS)-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+**Integrações e IA**
+
+![Mercado Pago](https://img.shields.io/badge/Mercado_Pago-00B1EA?style=for-the-badge&logo=mercadopago&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/GA4_Data_API-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=claude&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+## Projetos
+
+### Kelly Academy · beta aberto
+Plataforma de treino para a redação do ENEM. A IA corrige nas cinco competências e o backend aplica regras determinísticas por cima, para a nota nunca ser inflada. Planos Grátis e Pro com Stripe, transcrição de redação por foto, repertório por eixo temático e perto de 1.000 testes unitários.
+
+`Java 17` `Spring Boot` `Hexagonal` `PostgreSQL` `Gemini` `Stripe` `React`
+
+[Site](https://kellyacademy.com.br) · [Backend](https://github.com/eduardo-Ciudad/KellyAcademy) · [Frontend](https://github.com/eduardo-Ciudad/kellyacademy-frontend)
+
+### GabiKids · em produção para cliente
+Loja virtual de moda infantil. Pix e cartão pelo Checkout Transparente do Mercado Pago com webhook validado por HMAC e idempotência, integração com o ERP Bling e venda no balcão que mantém um estoque único entre site e loja física. Mais de 100 testes.
+
+`Java 17` `Spring Boot` `PostgreSQL` `Mercado Pago` `ERP Bling` `Cloudflare R2` `Docker`
+
+[Loja](https://www.gabikidstore.com) · [Backend](https://github.com/eduardo-Ciudad/ecommerce) · [Frontend](https://github.com/eduardo-Ciudad/ecommerce-vanilla-frontend)
+
+### Radar CiudadLab · em produção
+Ferramenta interna que sincroniza todo dia o Google Analytics 4 dos sites entregues pela CiudadLab, gera leituras de 7, 28 e 90 dias e organiza leads num funil com pontuação.
+
+`Java 17` `Spring Boot` `Hexagonal` `GA4 Data API` `Next.js`
+
+[Página](https://ciudadlab.com.br/radar) · [Backend](https://github.com/eduardo-Ciudad/radar-ciudad-lab)
+
+### Controle Financeiro · em produção para cliente
+Meu primeiro freelance pago. Sistema financeiro multi tenant com ledger append only: o saldo é sempre calculado por soma e correções entram como estorno. 46 testes com CI no GitHub Actions.
+
+`Java 17` `Spring Boot` `PostgreSQL` `Docker` `Nginx`
+
+[Demo](https://controle-financeiro-lab.vercel.app) · [Backend](https://github.com/eduardo-Ciudad/controle-financeiro-lab) · [Frontend](https://github.com/eduardo-Ciudad/controle-financeiro-lab-frontend)
+
+### PromoBot · encerrado
+Monitorava promoções do Mercado Livre, gerava legendas com IA e distribuía as ofertas no Telegram. Fila assíncrona com RabbitMQ e Outbox transacional com recuperação de falhas.
+
+`Java` `Spring Boot` `RabbitMQ` `Outbox` `Gemini` `Telegram Bot API`
+
+[Repositório](https://github.com/eduardo-Ciudad/promo-bot-mercadolivre)
+
+### ATSReady
+API que analisa currículos contra vagas com IA. Extração de PDF com PDFBox, análise pela API da Anthropic e domínio isolado em arquitetura hexagonal. 24 testes.
+
+`Java 17` `Spring Boot` `Hexagonal` `PDFBox` `Claude API`
+
+[Repositório](https://github.com/eduardo-Ciudad/ATS-analyse)
+
+## Atividade
 
 <div align="center">
 
-**Core** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker&theme=dark" height="32" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=eduardo-Ciudad&show_icons=true&theme=onedark&hide_border=true&count_private=true&locale=pt-br" alt="GitHub stats" />
+<img height="165" src="https://streak-stats.demolab.com?user=eduardo-Ciudad&theme=onedark&hide_border=true&locale=pt_BR" alt="GitHub streak" />
 
-**Infra & Tools** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=git,github,linux,idea&theme=dark" height="32" />
-
-**Frontend** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,tailwind&theme=dark" height="32" />
 
 </div>
 
-<br>
+## Contato
 
-<div align="center">
-
-```
-Spring Security · JWT · Flyway · JPA/Hibernate · RabbitMQ · JUnit 5 · Mockito
-Docker · Docker Compose · Render · Vercel · Swagger/OpenAPI · Anthropic API · Gemini API
-```
-
-</div>
-
----
-
-### Projetos
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🤖 PromoBot &nbsp; <sup><code>em produção · 24/7</code></sup>
-
-Bot que monitora promoções no Mercado Livre, gera legendas únicas com IA generativa (Gemini) e distribui automaticamente para um grupo do Telegram. Roda continuamente em VPS própria.
-
-**Features:** arquitetura hexagonal, scraper isolado em processo independente (Playwright) para contornar bloqueio de IP de datacenter, fila assíncrona com RabbitMQ, padrão Outbox com lease e backoff para envio confiável de mensagens, deduplicação e testes com JUnit 5.
-
-[`Repositório`](https://github.com/eduardo-Ciudad/promo-bot-mercadolivre)
-
-`Java 17` · `Spring Boot 4` · `RabbitMQ` · `Gemini API`
-`Playwright` · `PostgreSQL` · `Flyway` · `Docker` · `Nginx`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🛍️ GabiKids E-commerce &nbsp; <sup><code>freelance pago</code></sup>
-
-API REST completa para e-commerce de moda infantil, cobrindo o fluxo inteiro de compra: catálogo com variações de tamanho, carrinho persistente, frete em tempo real e checkout com pagamento real.
-
-**Features:** checkout Mercado Pago (Pix e cartão) com webhook validado por HMAC-SHA256 e idempotência, integração com o ERP Bling para sincronização de catálogo, cálculo de frete via API dos Correios (PAC/SEDEX), imagens via Cloudflare R2, lock pessimista contra overselling, rate limiting com Bucket4j e Caffeine, RBAC (ADMIN/CLIENT), 100+ testes.
-
-[`Repositório`](https://github.com/eduardo-Ciudad/ecommerce)
-
-`Java 17` · `Spring Boot 3.5` · `Mercado Pago API` · `Bling API`
-`Correios API` · `PostgreSQL` · `Flyway` · `Cloudflare R2` · `Docker`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🎨 CiudadLab &nbsp; <sup><code>estúdio próprio</code></sup>
-
-Site institucional e vitrine do meu estúdio de desenvolvimento, onde ofereço serviços de frontend para clientes e mostro cases reais entregues.
-
-**Features:** animações com Framer Motion, páginas de documentação de serviço dinâmicas (`/servicos/[slug]`), carrossel horizontal, preloader com sessionStorage, páginas legais (política de privacidade, cookies, termos de uso), SEO completo (sitemap, JSON-LD, Open Graph), cases reais como GabiKids e PromoBot.
-
-[`Site`](https://ciudadlab.com.br) · [`Repositório`](https://github.com/eduardo-Ciudad/ciudad.dev)
-
-`Next.js 14` · `TypeScript` · `Tailwind CSS v4`
-`Framer Motion` · `Vercel`
-
-</td>
-<td width="50%" valign="top">
-
-#### 💰 Controle Financeiro &nbsp; <sup><code>freelance pago</code></sup>
-
-Sistema financeiro multi tenant entregue para fornecedora de tecidos. Arquitetura append only (ledger): saldo sempre via `SUM`, correções via estorno, nunca edita ou deleta.
-
-**Features:** vendas com baixa automática de estoque, contas pessoais com parcelas, dashboard com resumo diário, fluxo completo de reset de senha, conformidade LGPD, email verification assíncrono, CI automatizado.
-
-[`Backend`](https://controlefinanceirolab.duckdns.org) · [`Frontend`](https://controle-financeiro-lab.vercel.app) · [`Repositório`](https://github.com/eduardo-Ciudad/controle-financeiro-lab)
-
-`Java 17` · `Spring Boot 3` · `Spring Security + JWT`
-`PostgreSQL` · `Flyway` · `Docker` · `Nginx` · `VPS`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🧠 StudyMind
-
-Plataforma de estudos com onboarding via IA. O usuário conversa com um assistente que gera um plano de 6 semanas, populando matérias, tópicos e tarefas no banco.
-
-**Features:** integração com Anthropic Claude, email verification assíncrono, rate limiting, refresh token JWT, Docker e docker compose, 58 testes passando.
-
-[`Backend`](https://studymind-l3ej.onrender.com) · [`Frontend`](https://studymind-mu.vercel.app) · [`Arquitetura`](https://eduardo-ciudad.github.io/StudyMind/) · [`Repositório`](https://github.com/eduardo-Ciudad/StudyMind)
-
-`Java 17` · `Spring Boot 3` · `Anthropic API`
-`PostgreSQL` · `Flyway` · `Docker` · `JUnit 5`
-
-</td>
-<td width="50%" valign="top">
-
-#### 📄 ATSReady
-
-API stateless que analisa currículos contra vagas usando IA. Upload de PDF, extração com PDFBox, scoring via Anthropic API, arquitetura hexagonal (Ports & Adapters).
-
-**Features:** 24/24 testes passando, CI com GitHub Actions, análise em quatro dimensões com pontuação e sugestões de melhoria.
-
-[`Repositório`](https://github.com/eduardo-Ciudad/ATS-analyse)
-
-`Java 17` · `Spring Boot 3` · `Anthropic API`
-`PDFBox` · `Hexagonal Architecture` · `GitHub Actions`
-
-</td>
-
-</table>
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-self-rho-71.vercel.app/api?username=eduardo-Ciudad&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="160" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardo-Ciudad&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="160" />
-
-</div>
-
----
-
-<div align="center">
-
-<a href="mailto:eduardociudadfigueredo@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/eduardociudadf/">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff"/>
-</a>
-&nbsp;
-<a href="https://www.instagram.com/ciudad_dev">
-  <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=58a6ff"/>
-</a>
-&nbsp;
-<a href="https://ciudadlab.com.br">
-  <img src="https://img.shields.io/badge/ciudadlab.com.br-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff"/>
-</a>
-&nbsp;
-<a href="https://github.com/eduardo-Ciudad">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff"/>
-</a>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardociudadf)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardociudadfigueredo@gmail.com)
+[![CiudadLab](https://img.shields.io/badge/ciudadlab.com.br-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ciudadlab.com.br)
+[![Instagram](https://img.shields.io/badge/@ciudad__dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ciudad_dev)
